@@ -1,0 +1,40 @@
+.result {
+    font-family: Consolas;
+    background-color: #111111;
+    color: chartreuse;
+    margin-top: 10px;
+}
+
+.expr {
+    font-family: Consolas;
+    width: 575px;
+    margin-right: 20px;
+    background-color: #111111;
+    color: chartreuse;
+}
+
+.calculate {
+    cursor: hand;
+    width: 100px;
+    height: 40px;
+    background-color: lightblue;
+    font-weight: bold;
+}
+
+body {
+    margin-top: 40px;
+    margin-left: 40px;
+    font-family: Verdana;
+    font-size: 12px;
+    color: #555555;
+    line-height: 150%;
+    letter-spacing: .25px;
+}
+
+h1 {
+    color: midnightblue;
+}
+
+.top {
+  margin-top: 25px;
+}

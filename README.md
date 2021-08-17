@@ -16,6 +16,7 @@ Can handle variable declaration assignments such as `PI = 3.1415`, and expressio
 
 - Click [here](https://claudiu-codreanu.github.io/expr-eval/challenge.html) to see the original challenge and requirements
 - Click [here](https://claudiu-codreanu.github.io/expr-eval/solution.html) to see my implementation
+- Click [here](https://claudiu-codreanu.github.io/expr-eval/v2/solution2.html) to see **v2** of my implementation
 
 <br>
 
@@ -24,8 +25,15 @@ This was intense! It’s the kind of simple-not-easy challenge, which forces you
 
 In any case, I loved it!
 
+<br>
+
 I read [Dave’s algorithm](https://www.cis.upenn.edu/~matuszek/cit594-2002/Assignments/5-expressions.html) **after** implementing my own solution.  
 So my approach is less optimal, and less elegant… but it seems to work, nevertheless!
+
+**Update**: I've also implemented Dave's algorithm in v2, see 3rd bullet above.  
+The code is faster, smaller, and more ellegant.
+
+<br>
 
 These are the more notable features:
 
