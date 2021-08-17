@@ -1,6 +1,6 @@
 # Expression Evaluator
 
-[Simple expression evaluator](https://claudiu-codreanu.github.io/expr-eval/main.html).
+[Simple expression evaluator](https://claudiu-codreanu.github.io/expr-eval/solution.html).
 <br>
 
 Can handle `+`, `-`, `*`, `/`, and `^` for exponentiation.  
@@ -15,7 +15,7 @@ Can handle variable declaration assignments such as `PI = 3.1415`, and expressio
 <br>
 
 - Click [here](https://claudiu-codreanu.github.io/expr-eval/challenge.html) to see the original challenge and requirements
-- Click [here](https://claudiu-codreanu.github.io/expr-eval/main.html) to see my implementation
+- Click [here](https://claudiu-codreanu.github.io/expr-eval/solution.html) to see my implementation
 
 <br>
 
@@ -37,7 +37,7 @@ These are the more notable features:
 
 <br>
 
-[Click here](https://claudiu-codreanu.github.io/expr-eval/main.html) to see my implementation, and to play with it.  
+[Click here](https://claudiu-codreanu.github.io/expr-eval/solution.html) to see my implementation, and to play with it.  
 Feel free to throw any expression at it, and let me know if it misbehaves.
 
 For example, the following expression produced the correct value (`85.63495631278313`):  
